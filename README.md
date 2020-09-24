@@ -40,3 +40,5 @@ This is part of a project called "MasakNet", where "Masak" is the Malay word for
 - to help the people who are cooking at home (due to the current COVID19 pandemic lockdown), to sell and deliver the food to nearby customers.
 - to arrange expert chefs to conduct cooking classes, online or off line, to train the people who are cooking at home.
 
+- Figure 1
+<img src="https://github.com/udexon/PhosWeb/blob/master/img/dom_mod.png" width=600>
