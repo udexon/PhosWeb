@@ -80,7 +80,11 @@ In fact, this function returns an array containing exactly ONE element, matching
 We wish to congratulate readers for your patience to read up to this point, as it is inevitable for us to explain the various technical issues with code samples from several seemingly unrelated sources. We wish to highlight that "mainstream" documentation on HTML and DOM have been written in certain ways that obscure the fundamental design and structure of HTML and DOM that we are revealing here:
 
 - (a) HTML is a tree.
-- (b) (a) is evident when DOM elements are viewed in the Inspector tab in browser developer tools (press `F12` or right-click "Inspect element" on an element in a web page).
+- (b) (a) is evident when DOM elements are viewed in the Inspector tab in browser developer tools (press `F12` or right-click "Inspect element" on an element in a web page) (figure 4).
+
+- Figure 4
+<img src="https://github.com/udexon/PhosWeb/blob/master/img/DOM_Inspector.png" width=600>
+
 - (c) In figure 2, for example, a DOM element as shown below:
 
 ```html
@@ -94,5 +98,3 @@ id: "city"
 inntertext: Kuala Lumpur
 ```
 
-- Figure 4
-<img src="https://github.com/udexon/PhosWeb/blob/master/img/DOM_Inspector.png" width=600>
