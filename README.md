@@ -97,4 +97,5 @@ class: "t-16 t-black t-normal inline-block"
 id: "city"
 inntertext: Kuala Lumpur
 ```
-
+- (d) ANY element CAN have `id` property. BUT adding `id` property is a choice left to the programmer.
+- (e) `id` is the easiest way to retrieve (access) a DOM element, e.g. JavaScript `getElementById()` function. The PHP function above is apparently derived from the JavaScript function.
