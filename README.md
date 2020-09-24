@@ -34,3 +34,9 @@ Figure 1 is the result of a web page using Microsoft's LinkedIn as template whos
 20200923_093011 foxy {"name":"who am i","age":"born 1982",
 "city":"Kuala Lumpur","specialty":"Hainan Chicken Rice","fees":"MYR 100 / hour"}
 ```
+
+This is part of a project called "MasakNet", where "Masak" is the Malay word for "cooking". The aims of this project inclulde:
+
+- to help the people who are cooking at home (due to the current COVID19 pandemic lockdown), to sell and deliver the food to nearby customers.
+- to arrange expert chefs to conduct cooking classes, online or off line, to train the people who are cooking at home.
+
