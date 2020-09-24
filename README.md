@@ -60,7 +60,11 @@ next_id next_id next_id next_id c: esp:
 - Figure 2
 <img src="https://github.com/udexon/PhosWeb/blob/master/img/dom_mod.png" width=600>
 
+We used `simplehtmldom`, a PHP library to modify the contents of `olt.html`.
+
 - https://simplehtmldom.sourceforge.io/manual.htm#section_quickstart
+
+The documentation page seemed to have had little maintainence. As such, we have copied the critical section on finding DOM element by `id` here, together with a screenshot of the documentation page:
 
 - Table 3
 ```php
