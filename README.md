@@ -1,5 +1,5 @@
 # PhosWeb
-Web Programming as Easy as 1-2-3.
+Web Programming as Easy as 1-2-3
 
 The World Wide Wed has undergone tremendous changes since its inception in ...
 
@@ -59,3 +59,14 @@ next_id next_id next_id next_id c: esp:
 
 - Figure 2
 <img src="https://github.com/udexon/PhosWeb/blob/master/img/dom_mod.png" width=600>
+
+- https://simplehtmldom.sourceforge.io/manual.htm#section_quickstart
+
+- Table 3
+```php
+// Find all element which id=foo
+$ret = $html->find('#foo');
+```
+
+- Figure 3
+<img src="https://github.com/udexon/PhosWeb/blob/master/img/simple_html_dom.png" width=600>
