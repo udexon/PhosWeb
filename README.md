@@ -29,6 +29,7 @@ Figure 1 is the result of a web page using Microsoft's LinkedIn as template whos
 - Figure 1
 <img src="https://github.com/udexon/PhosWeb/blob/master/img/LinkedIn.png" width=600>
 
+- Table 1
 ```
 ~/devel/PhosWeb/auth$ cat PhosGraph/chat_foxy_20200923_093011 
 20200923_093011 foxy {"name":"who am i","age":"born 1982",
@@ -40,5 +41,21 @@ This is part of a project called "MasakNet", where "Masak" is the Malay word for
 - to help the people who are cooking at home (due to the current COVID19 pandemic lockdown), to sell and deliver the food to nearby customers.
 - to arrange expert chefs to conduct cooking classes, online or off line, to train the people who are cooking at home.
 
-- Figure 1
+The data in table 1 were added to the HTML file `olt.html` in figure 1 using the following commands (table 2), whose output is shown in figure 2:
+
+- Table 2
+```
+~/devel/PhosWeb/authphp phos.php \
+: echo ON ECHO bv: ec: \; \
+: w_db ix: olt.html fgh: dup: 3 pick: geid: 0 i: dup: 3 pick: sit: . . . . \; \
+: r_db fi: 0 i: gjs: 0 i: jd: \; \
+: next_id apop: dup: 4 pick: swap: i: 3 pick: 2 pick: geid: 0 i: dup: \
+2 pick: sit: st: nl: ot: echo esp: esp: nl: st: nl: nl: \; \
+PhosGraph/chat_foxy_20200923_093011 r_db dup: ak: apop: dup: 3 pick: swap: i: \
+ol7.html fgh: dup: 3 pick: geid: 0 i: dup: 3 pick: sit: \
+ot: sp: echo nl: echo nl: nl: st: nl: swap: . swap: . st: nl: swap: \
+next_id next_id next_id next_id c: esp:
+```
+
+- Figure 2
 <img src="https://github.com/udexon/PhosWeb/blob/master/img/dom_mod.png" width=600>
