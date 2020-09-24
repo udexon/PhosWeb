@@ -45,16 +45,16 @@ The data in table 1 were added to the HTML file `olt.html` in figure 1 using the
 
 - Table 2
 ```
-~/devel/PhosWeb/authphp phos.php \
+~/devel/PhosWeb/auth$ php phos.php \
 : echo ON ECHO bv: ec: \; \
 : w_db ix: olt.html fgh: dup: 3 pick: geid: 0 i: dup: 3 pick: sit: . . . . \; \
 : r_db fi: 0 i: gjs: 0 i: jd: \; \
 : next_id apop: dup: 4 pick: swap: i: 3 pick: 2 pick: geid: 0 i: dup: \
-2 pick: sit: st: nl: ot: echo esp: esp: nl: st: nl: nl: \; \
+2 pick: sit: st: nl: ot: echo nl: esp: esp: nl: st: nl: nl: \; \
 PhosGraph/chat_foxy_20200923_093011 r_db dup: ak: apop: dup: 3 pick: swap: i: \
 ol7.html fgh: dup: 3 pick: geid: 0 i: dup: 3 pick: sit: \
 ot: sp: echo nl: echo nl: nl: st: nl: swap: . swap: . st: nl: swap: \
-next_id next_id next_id next_id c: esp:
+next_id next_id next_id next_id nl:
 ```
 
 - Figure 2
@@ -80,7 +80,19 @@ In fact, this function returns an array containing exactly ONE element, matching
 We wish to congratulate readers for your patience to read up to this point, as it is inevitable for us to explain the various technical issues with code samples from several seemingly unrelated sources. We wish to highlight that "mainstream" documentation on HTML and DOM have been written in certain ways that obscure the fundamental design and structure of HTML and DOM that we are revealing here:
 
 - (a) HTML is a tree.
-- (b) (a) is evivdent when DOM elements are viewed in the Inspector tab in browser developer tools (press `F12` or right-click "Inspect element" on an element in a web page).
+- (b) (a) is evident when DOM elements are viewed in the Inspector tab in browser developer tools (press `F12` or right-click "Inspect element" on an element in a web page).
+- (c) In figure 2, for example, a DOM element as shown below:
+
+```html
+<li class="t-16 t-black t-normal inline-block" id="city">Kuala Lumpur</li>
+```
+has the following properties, which form part of a tree:
+```
+tag: li
+class: "t-16 t-black t-normal inline-block"
+id: "city"
+inntertext: Kuala Lumpur
+```
 
 - Figure 4
 <img src="https://github.com/udexon/PhosWeb/blob/master/img/DOM_Inspector.png" width=600>
