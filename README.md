@@ -31,5 +31,6 @@ Figure 1 is the result of a web page using Microsoft's LinkedIn as template whos
 
 ```
 ~/devel/PhosWeb/auth$ cat PhosGraph/chat_foxy_20200923_093011 
-20200923_093011 foxy {"name":"who am i","age":"born 1982","city":"Kuala Lumpur","specialty":"Hainan Chicken Rice","fees":"MYR 100 / hour"}
+20200923_093011 foxy {"name":"who am i","age":"born 1982",
+"city":"Kuala Lumpur","specialty":"Hainan Chicken Rice","fees":"MYR 100 / hour"}
 ```
