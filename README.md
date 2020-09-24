@@ -76,3 +76,6 @@ In fact, this function returns an array containing exactly ONE element, matching
 
 - Figure 3
 <img src="https://github.com/udexon/PhosWeb/blob/master/img/simple_html_dom.png" width=600>
+
+We wish to congratulate readers for your patience to read up to this point, as it is inevitable for us to explain the various technical issues with code samples from several seemingly unrelated sources. We wish to highlight that "mainstream" documentation on HTML and DOM have been written in certain ways that obscure the fundamental structure of HTML and DOM that we are revealing here.
+
