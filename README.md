@@ -72,5 +72,7 @@ The documentation page seemed to have had little maintainence. As such, we have 
 $ret = $html->find('#foo');
 ```
 
+In fact, this function returns an array containing exactly ONE element, matching the specified `id`. As such, the comment `Find all element` seems to be both grammatically incorrect and technically problematic.
+
 - Figure 3
 <img src="https://github.com/udexon/PhosWeb/blob/master/img/simple_html_dom.png" width=600>
