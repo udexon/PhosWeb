@@ -228,6 +228,8 @@ ot: ol7.html w:
 
 `dup:` duplicates the whole DOM object.
 
+`.` pops one unused item from `$S`.
+
 ```
 li   find: dup: 19 i: dup: name id_null .  21 i:  dup: city      id_null .  dup: \
 ```
@@ -240,6 +242,6 @@ There are 2 items with tag `span` which we wish to modify at index `49` and `55`
 
 `h2   find: 2 i: dup: age id_null .` modifies element index `2` of `h2` tag.
 
-`ot:` transform PHP DOM object to HTML using `->outertext` property of `simplehtmldom` library.
+`ot:` transforms PHP DOM object to HTML using `->outertext` property of `simplehtmldom` library.
 
 `ol7.html w:` writes the output to `ol7.html` by calling `file_put_contents()`.
