@@ -113,28 +113,30 @@ When `id` was absent, we may access the DOM elements using tag name, then add `i
 
   - document.getElementsByTagName("div")
 
-- Figure 7
+- Figure 5
 <img src="https://github.com/udexon/PhosWeb/blob/master/img/LinkedIn-TagName.png" width=600>
 
 
+7. To do the same in PHP, we use the `find()` function in `simplehtmldom` library:
+
 - https://simplehtmldom.sourceforge.io/manual.htm#section_find
 
-- Figure 5
+- Figure 6
 <img src="https://github.com/udexon/PhosWeb/blob/master/img/find_tag.png" width=600>
 
-As shown in figure 5, `$html->find( TAGNAME )` returns an array of DOM elements (objects) matching `TAGNAME`.
+As shown in figure 6, `$html->find( TAGNAME )` returns an array of DOM elements (objects) matching `TAGNAME`.
 
 ```php
 // Find all anchors, returns a array of element objects
 $ret = $html->find('a');
 ```
 
-The `find()` function from `simplehtmldom` library is called via Phoscript function word `find:`, as shown in figure 5. 
+The `find()` function from `simplehtmldom` library is called via Phoscript function word `find:`, as shown in figure 7. 
 
 ```
 $ php phos.php olt.html fgh: div find: 0 i: ot: s:
 ```
-- Figure 6
+- Figure 7
 <img src="https://github.com/udexon/PhosWeb/blob/master/img/find_div.png" width=600>
 
 
@@ -161,12 +163,10 @@ Detailed explanations of Phoscript can be found in the following links:
 - https://github.com/udexon/PhosChat/tree/master/PhosChat
 
 
-
-- Figure 8
-<img src="https://github.com/udexon/PhosWeb/blob/master/img/set_attr.png" width=600>
-
-
-
+8. The Phoscript commands as shown in figure 7 are defined as below:
+```
+$ php phos.php olt.html fgh: div find: 0 i: ot: s:
+```
 ```php
 function fgl_fgh()
 {
@@ -202,11 +202,44 @@ function fgl_sid()
 }
 ```
 
+Each "function word" (e.g. `fgh:`, `find:`) calls a PHP native function `fgl_*()`, typically reading the input from the global stack `$S` (`array_pop($S)`) and appending (pushing) the results back to `$S` (`$S[] = ....;`).
+
+The documentation in `simplehtmldom` for setting the `id` attribute is shown in figure 8:
+
+- Figure 8
+<img src="https://github.com/udexon/PhosWeb/blob/master/img/set_attr.png" width=600>
+
+
+9. Finally, the complete Phoscript commands to add `id` to the HTML elements on LinkedIn profile page which we wish to modify are given below:
+
 ```
-php phos.php  : id_null sid: dup: 0str: sit: \; \
+php phos.php  \
+: id_null sid: dup: 0str: sit: \; \
 ../linkedin/linkedin.html fgh: dup: \
 li   find: dup: 19 i: dup: name id_null .  21 i:  dup: city      id_null .  dup: \
 span find: dup: 49 i: dup: fees id_null .  55 i:  dup: specialty id_null .  dup: \
 h2   find: 2 i: dup: age id_null . \
 ot: ol7.html w:
 ```
+
+`: id_null sid: dup: 0str: sit: \; \` defines "alias" (composite function) to add / set `id` and empty `innertext` (original contents) of the DOM element.
+
+`../linkedin/linkedin.html fgh:` loads HTML DOM as a PHP object, which by default is pushed (appended) to `$S`.
+
+`dup:` duplicates the whole DOM object.
+
+```
+li   find: dup: 19 i: dup: name id_null .  21 i:  dup: city      id_null .  dup: \
+```
+There are 2 items with tag `li` which we wish to modify at index `19` and `21`.
+
+```
+span find: dup: 49 i: dup: fees id_null .  55 i:  dup: specialty id_null .  dup: \
+```
+There are 2 items with tag `span` which we wish to modify at index `49` and `55`.
+
+`h2   find: 2 i: dup: age id_null .` modifies element index `2` of `h2` tag.
+
+`ot:` transform PHP DOM object to HTML using `->outertext` property of `simplehtmldom` library.
+
+`ol7.html w:` writes the output to `ol7.html` by calling `file_put_contents()`.
