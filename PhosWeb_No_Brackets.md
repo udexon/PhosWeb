@@ -2,11 +2,12 @@
 # PhosWeb: ONE Script, NO Brackets
 - Web Programming WITHOUT Brackets
 
-The primary intention of this article is to impress readers who are programmers or non-programmers alike, that Phoscript is a very simple script to learn, much like the LOGO programming language, and yet, it has tremendous benefits, as we have illustrated in a previous article, how Phoscript can be used to ___MODIFY THE CONTENTS OF ANY WEB PAGE___, filling them with contents from a __Decentralized Graph Database &mdash; PhosGraph__.
+The primary intention of this article is to impress readers who are programmers or non-programmers alike, that Phoscript is a very simple script to learn, much like the LOGO programming language, and yet, it has tremendous benefits, as we have illustrated in a previous article, how Phoscript can be used to ___MODIFY THE CONTENTS OF ANY WEB PAGE___, filling them with contents from a [__Decentralized Graph Database &mdash; PhosGraph__](https://github.com/udexon/PhosGraph/blob/master/README.md).
 
 - https://github.com/udexon/PhosWeb/blob/master/README.md
+- https://github.com/udexon/PhosGraph/blob/master/README.md
 
-Phoscript, the programming language or script that powers PhosWeb, is derived from the Forth programming language, primarily a Reverse Polish Notation / Stack Machine script. The only other popular programming language that may claim to use no brackets would be LOGO, a derivative of LISP, which we consider the only worthy rival of Forth.
+Phoscript, the programming language or script that powers [PhosWeb](https://github.com/udexon/PhosWeb/blob/master/README.md), is derived from the Forth programming language, primarily a Reverse Polish Notation / Stack Machine script. The only other popular programming language that may claim to use no brackets would be LOGO, a derivative of LISP, which we consider the only worthy rival of Forth.
 
 - https://el.media.mit.edu/logo-foundation/what_is_logo/logo_programming.html
 
