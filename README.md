@@ -156,8 +156,9 @@ function fgl_sid()
 ```
 
 ```
-php phos.php  : id_null sid: dup: 0str: sit: \; ../linkedin/linkedin.html fgh: dup: \
-li   find: dup: 19 i: dup: me   id_null .  21 i:  dup: city      id_null .  dup: \
+php phos.php  : id_null sid: dup: 0str: sit: \; \
+../linkedin/linkedin.html fgh: dup: \
+li   find: dup: 19 i: dup: name id_null .  21 i:  dup: city      id_null .  dup: \
 span find: dup: 49 i: dup: fees id_null .  55 i:  dup: specialty id_null .  dup: \
 h2   find: 2 i: dup: age id_null . \
 ot: ol7.html w:
