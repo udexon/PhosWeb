@@ -111,4 +111,5 @@ When id was absent, we may access the DOM elements using tag name, then add `id`
 <img src="https://github.com/udexon/PhosWeb/blob/master/img/find_tag.png" width=600>
 
 - Figure 6
-<img src="https://github.com/udexon/PhosWeb/blob/master/img/LinkedIn_TagName.png" width=600>
+<img src="https://github.com/udexon/PhosWeb/blob/master/img/LinkedIn-TagName.png" width=600>
+
