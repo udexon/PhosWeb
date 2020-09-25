@@ -99,3 +99,16 @@ inntertext: Kuala Lumpur
 ```
 - (d) ANY element CAN have `id` property. BUT adding `id` property is a choice left to the programmer.
 - (e) `id` is the easiest way to retrieve (access) a DOM element, e.g. JavaScript `getElementById()` function. The PHP function above is apparently derived from the JavaScript function.
+
+
+6. In a typical web page like Microsoft LinkedIn profile page, as with most other web pages, the `id` property is not fully populated.
+
+When id was absent, we may access the DOM elements using tag name, then add `id`. This involves searching through an array of elements return by the initial search, as illustrated below.
+
+- https://simplehtmldom.sourceforge.io/manual.htm#section_find
+
+- Figure 5
+<img src="https://github.com/udexon/PhosWeb/blob/master/img/find_tag.png" width=600>
+
+- Figure 6
+<img src="https://github.com/udexon/PhosWeb/blob/master/img/LinkedIn_TagName.png" width=600>
