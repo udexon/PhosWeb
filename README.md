@@ -116,8 +116,36 @@ When id was absent, we may access the DOM elements using tag name, then add `id`
 - Figure 7
 <img src="https://github.com/udexon/PhosWeb/blob/master/img/set_attr.png" width=600>
 
+- Figure 8
+<img src="https://github.com/udexon/PhosWeb/blob/master/img/find_div.png" width=600>
+
 
 ```php
+function fgl_fgh()
+{
+    global $S;
+    $S[] = file_get_html(array_pop($S));
+}
+function fgl_find()
+{
+    global $S;
+    $a = array_pop($S);
+    $b = array_pop($S);
+    $S[] = $b->find($a);
+}
+function fgl_i()
+{
+    global $S;
+    $a = array_pop($S);
+    $b = array_pop($S);
+    $S[] = $b[$a];
+}
+function fgl_ot()
+{
+    global $S; 
+    $b = array_pop($S);  
+    $S[] = $b->outertext;
+}
 function fgl_sid()
 {
     global $S;
