@@ -103,21 +103,28 @@ inntertext: Kuala Lumpur
 
 6. In a typical web page like Microsoft LinkedIn profile page, as with most other web pages, the `id` property is not fully populated.
 
-When id was absent, we may access the DOM elements using tag name, then add `id`. This involves searching through an array of elements return by the initial search, as illustrated below.
+When `id` was absent, we may access the DOM elements using tag name, then add `id`. This involves searching through an array of elements return by the initial search, as illustrated below.
 
 - https://simplehtmldom.sourceforge.io/manual.htm#section_find
 
 - Figure 5
 <img src="https://github.com/udexon/PhosWeb/blob/master/img/find_tag.png" width=600>
 
+```
+$ php phos.php olt.html fgh: div find: 0 i: ot: s:
+```
+
+- https://github.com/udexon/PhosChat
+
 - Figure 6
-<img src="https://github.com/udexon/PhosWeb/blob/master/img/LinkedIn-TagName.png" width=600>
+<img src="https://github.com/udexon/PhosWeb/blob/master/img/find_div.png" width=600>
 
 - Figure 7
-<img src="https://github.com/udexon/PhosWeb/blob/master/img/set_attr.png" width=600>
+<img src="https://github.com/udexon/PhosWeb/blob/master/img/LinkedIn-TagName.png" width=600>
 
 - Figure 8
-<img src="https://github.com/udexon/PhosWeb/blob/master/img/find_div.png" width=600>
+<img src="https://github.com/udexon/PhosWeb/blob/master/img/set_attr.png" width=600>
+
 
 
 ```php
