@@ -105,6 +105,18 @@ inntertext: Kuala Lumpur
 
 When `id` was absent, we may access the DOM elements using tag name, then add `id`. This involves searching through an array of elements return by the initial search, as illustrated below.
 
+- (a) Open LinkedIn:
+
+  - https://www.linkedin.com/feed/
+
+- (b) Press F12 to bring up the developer tools. Click "Console" tab. Enter the following command:
+
+  - document.getElementsByTagName("div")
+
+- Figure 7
+<img src="https://github.com/udexon/PhosWeb/blob/master/img/LinkedIn-TagName.png" width=600>
+
+
 - https://simplehtmldom.sourceforge.io/manual.htm#section_find
 
 - Figure 5
@@ -149,8 +161,6 @@ Detailed explanations of Phoscript can be found in the following links:
 - https://github.com/udexon/PhosChat/tree/master/PhosChat
 
 
-- Figure 7
-<img src="https://github.com/udexon/PhosWeb/blob/master/img/LinkedIn-TagName.png" width=600>
 
 - Figure 8
 <img src="https://github.com/udexon/PhosWeb/blob/master/img/set_attr.png" width=600>
