@@ -110,14 +110,44 @@ When `id` was absent, we may access the DOM elements using tag name, then add `i
 - Figure 5
 <img src="https://github.com/udexon/PhosWeb/blob/master/img/find_tag.png" width=600>
 
+As shown in figure 5, `$html->find( TAGNAME )` returns an array of DOM elements (objects) matching `TAGNAME`.
+
+```php
+// Find all anchors, returns a array of element objects
+$ret = $html->find('a');
+```
+
+The `find()` function from `simplehtmldom` library is called via Phoscript function word `find:`, as shown in figure 5. 
+
 ```
 $ php phos.php olt.html fgh: div find: 0 i: ot: s:
 ```
+- Figure 6
+<img src="https://github.com/udexon/PhosWeb/blob/master/img/find_div.png" width=600>
+
+
+7. The definition of Phoscript function word `find:` is shown below:
+
+```
+function fgl_find()
+{
+    global $S;
+    $a = array_pop($S);
+    $b = array_pop($S);
+    $S[] = $b->find($a);
+}
+```
+
+Detailed explanations of Phoscript can be found in the following links:
 
 - https://github.com/udexon/PhosChat
 
-- Figure 6
-<img src="https://github.com/udexon/PhosWeb/blob/master/img/find_div.png" width=600>
+- https://github.com/udexon/PhosChat/blob/master/README.md
+
+- https://github.com/udexon/Multiweb/blob/master/Phoscript_Tutorials.md
+
+- https://github.com/udexon/PhosChat/tree/master/PhosChat
+
 
 - Figure 7
 <img src="https://github.com/udexon/PhosWeb/blob/master/img/LinkedIn-TagName.png" width=600>
