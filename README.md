@@ -113,3 +113,16 @@ When id was absent, we may access the DOM elements using tag name, then add `id`
 - Figure 6
 <img src="https://github.com/udexon/PhosWeb/blob/master/img/LinkedIn-TagName.png" width=600>
 
+- Figure 7
+<img src="https://github.com/udexon/PhosWeb/blob/master/img/set_attr.png" width=600>
+
+
+```php
+function fgl_sid()
+{
+    global $S;
+    $a = array_pop($S);
+    $b = array_pop($S);
+    $b->id = $a;
+}
+```
