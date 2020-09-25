@@ -2,6 +2,10 @@
 # PhosWeb: ONE Script, NO Brackets
 - Web Programming WITHOUT Brackets
 
+The primary intention of this article is to impress readers who are programmers or non-programmers alike, that Phoscript is a very simple script to learn, much like the LOGO programming language, and yet, it has tremendous benefits, as we have illustrated in a previous article, how Phoscript can be used to ___MODIFY THE CONTENTS OF ANY WEB PAGE___, filling them with contents from a __Decentralized Graph Database &mdash; PhosGraph__.
+
+- https://github.com/udexon/PhosWeb/blob/master/README.md
+
 Phoscript, the programming language or script that powers PhosWeb, is derived from the Forth programming language, primarily a Reverse Polish Notation / Stack Machine script. The only other popular programming language that may claim to use no brackets would be LOGO, a derivative of LISP, which we consider the only worthy rival of Forth.
 
 - https://el.media.mit.edu/logo-foundation/what_is_logo/logo_programming.html
@@ -13,7 +17,3 @@ Although "brackets in programming languages" may sound like a hard core theoreti
 We may even say that the emergence of Phoscript (or similar systems with any other names) is a mathematical inevitability, that was started by ALGOL in 1960s, as almost all programming languages invented since employ some form of stack machines. As such, it is just a matter of time when someone employs the Reverse Polish Notation to directly or indirectly manipulate the stack machine that serves as the interpreter engine of a programming language.
 
 - https://github.com/udexon/Multiweb/blob/master/Phoscript_Tutorials.md
-
-The primary intention of this article is to impress readers who are programmers or non-programmers alike, that Phoscript is a very simple script to learn, much like the LOGO programming language, and yet, it has tremendous benefits, as we have illustrated in a previous article, how Phoscript can be used to ___MODIFY THE CONTENTS OF ANY WEB PAGE___, filling them with contents from a __Decentralized Graph Database &mdash; PhosGraph &mdash;___.
-
-- https://github.com/udexon/PhosWeb/blob/master/README.md
