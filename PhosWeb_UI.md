@@ -49,7 +49,17 @@ Consider Scenario A:
 - Chef P is most likely genuine.
 - The cooking class proceeds without issues.
 
-2. Total transparency, absolute privacy.
+## Total Transparency & Absolute Privacy
+
+The asymmetric cryptographic alogrithms that powered PhosWeb both total transparency and absolute privacy for users, two seemingly mutually exclusive features.
+
+By "absolute privacy", it means that a User is identified by a public key that is generated randomly during a particular session (transient key cryptography). He (or she) may choose to reveal his identity in the real world at his own discretion.
+
+By "total transpaency", it means that since each public key is (theoretically) unique at a given time (it is nearly impossible for 2 users to generate the same public key at the same time within a connected system, with a small number (<10,000) of total users), every transaction is witnessed by at least 2 users, and as such, the transaction can be logged (if both parties agree).
+
+
+
+
 
 3. May need to create a foundation like Free Software Foundation to govern HFSS.
 
