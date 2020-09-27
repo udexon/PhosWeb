@@ -94,12 +94,16 @@ The results can be displayed in a page similar to LinkedIn profile page (figure 
 <img src="https://github.com/udexon/PhosWeb/blob/master/img/terminal.png" width=600>
 
 
-4. "Usedev": User + Developer
+3. "Usedev": User + Developer
 
 Introduce "Usedev" here. How PhosWeb merge Users and Developers. Beyond simple no-code platforms.
 
+Phos / RPN commands can be entered via any text box capable of inputting a string, a breakthrough from conventional programming languages, e.g. a cell in a spreadsheet, or any floating window, etc.
 
-5.
+"Super-app" ??
+
+
+4.
 
 - PhosWeb: https://github.com/udexon/PhosWeb/blob/master/README.md
 
