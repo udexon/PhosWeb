@@ -75,16 +75,22 @@ Figure 1 and 2 show Google search engine and Facebook that everyone is familiar 
 <img src="https://github.com/udexon/Hydergraph/blob/master/Hydergraph/Google-Search-Spreadsheet.png" width=600>
 
 - Figure 2
+<img src="https://github.com/udexon/PhosWeb/blob/master/img/LinkedIn_CEO_profile.png" width=600>
+
+- Figure 3
 <img src="https://github.com/udexon/PhosWeb/blob/master/img/Facebook_Dark.png" width=600>
 
-submit personal details via CSV, spreadsheet &mdash; format that users are familiar with.
+Submit personal details via CSV, spreadsheet (figure 1 right) &mdash; format that users are familiar with.
+
+Output like LinkedIn profile page.
+
 
 Figure 3 shows a typical browser console and figure 4 shows a Unix (Linux) terminal that most developers are familiar with.
 
-- Figure 3
+- Figure 4
 <img src="https://github.com/udexon/Hydergraph/blob/master/Hydergraph/GASP.png" width=600>
 
-- Figure 4
+- Figure 5
 <img src="https://github.com/udexon/PhosWeb/blob/master/img/terminal.png" width=600>
 
 
