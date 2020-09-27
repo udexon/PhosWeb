@@ -33,6 +33,24 @@ We may draw precedents from existing FOSS projects as well as non-profit chariti
 
 A lack of awareness on legal responsibilities may prevent many programmers or non-programmers alike to partificipating in HFSS. As such, we feel that we should be taking more efforts in educating everyone on this issue.
 
+集思广益 synergy maximises success
+
+The first issue that we may explore is:
+
+- How do users make sure the information displayed on PhosWeb is genuine?
+  - e.g. Experience concerning a Chef?
+
+To be practical, Pareto's principle would need to be applied on many stages of operations of PhosWeb, as we envisage it will be run on a voluntary basis.
+
+Consider Scenario A:
+- Chef Mr. P posts on PhosWeb to run a cooking class on DD MM YYYY location KL-001.
+- A user of PhosWeb cross posts this to Facebook group Malaysian Chef Connection and receives no complaints.
+- Chef P is most likely genuine.
+- The cooking class proceeds without issues.
+
+Total transparency, absolute privacy.
+
+May need to create a foundation like Free Software Foundation to govern HFSS.
 
 <img src="https://github.com/udexon/Hydergraph/blob/master/Hydergraph/Google-Search-Spreadsheet.png" width=600>
 
