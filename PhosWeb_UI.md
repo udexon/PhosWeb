@@ -14,7 +14,7 @@ While there have been various "no code" frameworks targeted at non-programmers t
 
 Centralized user authentication will continue to be one of the most critical bottlenecks of growth for new start-ups, as acquiring users or customers to register is time consuming and costly.
 
-We shall describe MasakNet, to illustrate the organizational to technical issues in a "hybrid FOSS Start-up" (HFOSS), beyond the conventional "start-ups using FOSS" modus operandi.
+We shall describe MasakNet, to illustrate the organizational to technical issues in a "hybrid Free Software Start-up" (HFSS), beyond the conventional "start-ups using FOSS" modus operandi.
 
 MasakNet's aims are as follow:
 - to help the people who are cooking at home (due to the current COVID19 pandemic lockdown), to sell and deliver the food to nearby customers.
