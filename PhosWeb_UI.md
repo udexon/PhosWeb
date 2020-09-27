@@ -69,7 +69,7 @@ By "total transpaency", it means that since each public key is (theoretically) u
 
 Having highlighted some background legal, technical and organizational issues, let us examine in details the essential functions of PhosWeb, and compare how they differ from conventional web services.
 
-Figure 1 and 2 show Google search engine and Facebook that everyone is familiar with.
+1. Figure 1, 2 and 3 show Google search engine, LinkedIn profile page and Facebook that everyone is familiar with.
 
 - Figure 1
 <img src="https://github.com/udexon/Hydergraph/blob/master/Hydergraph/Google-Search-Spreadsheet.png" width=600>
@@ -80,12 +80,12 @@ Figure 1 and 2 show Google search engine and Facebook that everyone is familiar 
 - Figure 3
 <img src="https://github.com/udexon/PhosWeb/blob/master/img/Facebook_Dark.png" width=600>
 
-Submit personal details via CSV, spreadsheet (figure 1 right) &mdash; format that users are familiar with.
+Using PhosWeb, a user may submit personal details via CSV, or a spreadsheet interface (figure 1 right) &mdash; format that users are familiar with.
 
-Output like LinkedIn profile page.
+The results can be displayed in a page similar to LinkedIn profile page (figure 2) or any template that the user chooses.
 
 
-Figure 3 shows a typical browser console and figure 4 shows a Unix (Linux) terminal that most developers are familiar with.
+2. Figure 4 shows a typical browser console and figure 5 shows a Unix (Linux) terminal that most developers are familiar with.
 
 - Figure 4
 <img src="https://github.com/udexon/Hydergraph/blob/master/Hydergraph/GASP.png" width=600>
