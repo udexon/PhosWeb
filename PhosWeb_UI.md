@@ -25,9 +25,13 @@ MasakNet's aims are as follow:
 
 - https://github.com/udexon/LesNomadesMobile
 
+### Legal Responsibilities in HFSS
+
 One of the most fundamental questions concerning Hybrid Free Software Start-ups (HFSS) will be legal responsibilities &mdash; who will be legally responsible for the information and the operations of the projects and how will this affect users.
 
 We may draw precedents from existing FOSS projects as well as non-profit charities and Non-Governmental Organizations.
+
+A lack of awareness on legal responsibilities may prevent many programmers or non-programmers alike to partificipating in HFSS. As such, we feel that we should be taking more efforts in educating everyone on this issue.
 
 
 <img src="https://github.com/udexon/Hydergraph/blob/master/Hydergraph/Google-Search-Spreadsheet.png" width=600>
