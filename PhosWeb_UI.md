@@ -14,6 +14,8 @@
 
 Centralized user authentication will continue to be one of the most critical bottlenecks of growth for new start-ups, as acquiring users or customers to register is time consuming and costly.
 
+- PhosWeb can use ___BOTH___ traditional centralized user authentication (CUA) or decentralized user authentication (DUA).
+
 2. We shall describe MasakNet, to illustrate the organizational to technical issues in a "hybrid Free Software Start-up" (HFSS), beyond the conventional "start-ups using FOSS" modus operandi.
 
 MasakNet's aims are as follow:
@@ -89,3 +91,14 @@ Figure 3 shows a typical browser console and figure 4 shows a Unix (Linux) termi
 4. "Usedev": User + Developer
 
 Introduce "Usedev" here. How PhosWeb merge Users and Developers. Beyond simple no-code platforms.
+
+
+5.
+
+- PhosWeb: https://github.com/udexon/PhosWeb/blob/master/README.md
+
+- Search / Post: PhosGraph https://github.com/udexon/PhosGraph/blob/master/PhosGraph_MasakNet.md
+
+- Chat: PhosChat https://github.com/udexon/PhosChat/blob/master/README.md
+
+- Pay: PhosPay https://github.com/udexon/PhosPay/blob/master/README.md
