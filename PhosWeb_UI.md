@@ -19,7 +19,11 @@ We shall describe MasakNet, to illustrate the organizational to technical issues
 MasakNet's aims are as follow:
 - to help the people who are cooking at home (due to the current COVID19 pandemic lockdown), to sell and deliver the food to nearby customers.
 - to arrange expert chefs to conduct cooking classes, online or off line, to train the people who are cooking at home.
+- to work with accomodation booking services like AirBnB to provide an "all-in-one" experience &mdash; from holiday to cooking class and partying.
+- to provide training for everyone involved &mdash; from apprentice chef, marketing, finance, management, deliveries, investors etc.
 - .... 
+
+- https://github.com/udexon/LesNomadesMobile
 
 
 
