@@ -58,20 +58,33 @@ By "absolute privacy", it means that a User is identified by a public key that i
 By "total transpaency", it means that since each public key is (theoretically) unique at a given time (it is nearly impossible for 2 users to generate the same public key at the same time within a connected system, with a small number (<10,000) of total users), every transaction is witnessed by at least 2 users, and as such, the transaction can be logged (if both parties agree).
 
 
-
-
-
 3. May need to create a foundation like Free Software Foundation to govern HFSS.
 
 4. "Usedev": User + Developer
 
 
+## Search Post Chat Pay (SPCP) &mdash; 4 Essential Functions of PhosWeb
+
+Having highlighted some background legal, technical and organizational issues, let us examine in details the essential functions of PhosWeb, and compare how they differ from conventional web services.
+
+Figure 1 and 2 show Google search engine and Facebook that everyone is familiar with.
+
+- Figure 1
 <img src="https://github.com/udexon/Hydergraph/blob/master/Hydergraph/Google-Search-Spreadsheet.png" width=600>
 
-<img src="https://github.com/udexon/Hydergraph/blob/master/Hydergraph/GASP.png" width=600>
-
+- Figure 2
 <img src="https://github.com/udexon/PhosWeb/blob/master/img/Facebook_Dark.png" width=600>
 
+
+Figure 3 shows a typical browser console and figure 4 shows a Unix (Linux) terminal that most developers are familiar with.
+
+- Figure 3
+<img src="https://github.com/udexon/Hydergraph/blob/master/Hydergraph/GASP.png" width=600>
+
+- Figure 4
 <img src="https://github.com/udexon/PhosWeb/blob/master/img/terminal.png" width=600>
 
 
+4. "Usedev": User + Developer
+
+Introduce "Usedev" here. How PhosWeb merge Users and Developers. Beyond simple no-code platforms.
