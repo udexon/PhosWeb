@@ -75,6 +75,7 @@ Figure 1 and 2 show Google search engine and Facebook that everyone is familiar 
 - Figure 2
 <img src="https://github.com/udexon/PhosWeb/blob/master/img/Facebook_Dark.png" width=600>
 
+submit personal details via CSV, spreadsheet &mdash; format that users are familiar with.
 
 Figure 3 shows a typical browser console and figure 4 shows a Unix (Linux) terminal that most developers are familiar with.
 
