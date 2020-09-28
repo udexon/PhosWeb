@@ -90,6 +90,10 @@ Using PhosWeb, a user may submit personal details via CSV, or a spreadsheet inte
 
 The results can be displayed in a page similar to LinkedIn profile page (figure 2) or any template that the user chooses.
 
+Need "free graphics", a.k.a. creative commons.
+
+https://creativecommons.org/
+
 
 2. Figure 4 shows a typical browser console and figure 5 shows a Unix (Linux) terminal that most developers are familiar with.
 
