@@ -14,6 +14,15 @@
 
 2. Do users need to know programming? 
 
+Hybrid API refers to a property of programming languages where the caller function and the callee function are written in two different programming languages. Typically, a Python function may call a C++ function; or a Java function calls a C++ function.
+
+In conventional programming language ecosystems, multiple programming languages are used in caller function (e.g. Python and Java) to call low level functions written in C++. We call this Divergent Hybrid API, where the term "divergent" refers to a visual representation of functions as upstream vs. downstream, i.e. caller function == downstream, callee function == upstream. Divergent means multiple programming languages are used in downstream (caller functions).
+
+Phoscript is perhaps one of the very few programming languages that exhibit the property of _Convergent Hybrid API_, where Phoscript caller function (downstream) may call callee functions written in various host programming languages.
+
+- https://github.com/udexon/Multiweb/blob/master/Phoscript_Tutorials.md
+
+
 Improve User / Developer collaboration? PhosWeb have smaller barriers between Users and Developers compared to conventional software projects. 
 
 In PhosWeb ecosystems, it is not just the barriers between Users and Developers are smaller, but PhosWeb Hybrid API allows better task delegation between teams responsible for specific modules in a complex project, from low level coding to project monitoring at management level, traditionally considered a non-programming task.
