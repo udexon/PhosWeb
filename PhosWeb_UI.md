@@ -97,18 +97,6 @@ By "absolute privacy", it means that a User is identified by a public key that i
 By "total transpaency", it means that since each public key is (theoretically) unique at a given time (it is nearly impossible for 2 users to generate the same public key at the same time within a connected system, with a small number (<10,000) of total users), every transaction is witnessed by at least 2 users, and as such, the transaction can be logged (if both parties agree).
 
 
-3. May need to create a foundation like Free Software Foundation to govern HFSS.
-
-4. "Usedev": User + Developer
-
-集思广益 synergy maximises success
-
-Just like spreadsheet users know basic spreadsheet functions: sum of cells, sort etc. Spreadsheet is the first no code app. 
-
-UseDev Phos makes programming as simple as 123, spreadsheet. 
-
-Merge with other no code platforms?
-
 
 ## Search Post Chat Pay (SPCP) &mdash; 4 Essential Functions of PhosWeb
 
@@ -151,9 +139,18 @@ As such, the works by Creative Commons, the Free Software Foundation equivalent 
 
 - (i) Upload data to PhosGraph via CSV file. 
 - (ii) Let user choose web page templates: store URL of web page templates in PhosGraph.
-- (iii) Spreadsheet Interface.
+- (iii) Spreadsheet Interface: Spreadsheet users know basic spreadsheet functions: sum of cells, sort etc. Spreadsheet is in fact the first "no code" app. 
+
+To commemorate the legedanary classic spreadsheet application Lotus 1-2-3, we would like to introduce the slogan:
+- PhosWeb makes programming as simple as 1-2-3.
 
 Phos RPN commands can be entered via any text box capable of inputting a string, a breakthrough from conventional programming languages, e.g. a cell in a spreadsheet, or any floating window, etc. As such, it gives rise to a new class of "super-app", which has capabilities to "modify itself" (metaprogramming), and creates new possibilities in application development. 
+
+<!--
+UseDev 
+Merge with other no code platforms?
+-->
+
 
 The following are resources on how PhosWeb implements the essential functions of a web applications:
 - Search / Post: PhosGraph https://github.com/udexon/PhosGraph/blob/master/PhosGraph_MasakNet.md
@@ -171,5 +168,5 @@ As such, we would like to introduce the term "Usedev" which represents "User + D
 How PhosWeb merge Users and Developers. Beyond simple no-code platforms.
 -->
 
-
+We may need to create a foundation like Free Software Foundation to govern HFSS, whose philosophy may be summarized in one Chinese proverb 集思广益 "synergy maximises success".
 
