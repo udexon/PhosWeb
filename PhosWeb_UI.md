@@ -153,6 +153,13 @@ As such, the works by Creative Commons, the Free Software Foundation equivalent 
 - (ii) Let user choose web page templates: store URL of web page templates in PhosGraph.
 - (iii) Spreadsheet Interface.
 
+Phos RPN commands can be entered via any text box capable of inputting a string, a breakthrough from conventional programming languages, e.g. a cell in a spreadsheet, or any floating window, etc. As such, it gives rise to a new class of "super-app", which has capabilities to "modify itself" (metaprogramming), and creates new possibilities in application development. 
+
+The following are resources on how PhosWeb implements the essential functions of a web applications:
+- Search / Post: PhosGraph https://github.com/udexon/PhosGraph/blob/master/PhosGraph_MasakNet.md
+- Chat: PhosChat https://github.com/udexon/PhosChat/blob/master/README.md
+- Pay: PhosPay https://github.com/udexon/PhosPay/blob/master/README.md
+
 
 4. "Usedev": User + Developer
 
@@ -164,17 +171,5 @@ As such, we would like to introduce the term "Usedev" which represents "User + D
 How PhosWeb merge Users and Developers. Beyond simple no-code platforms.
 -->
 
-Phos / RPN commands can be entered via any text box capable of inputting a string, a breakthrough from conventional programming languages, e.g. a cell in a spreadsheet, or any floating window, etc.
-
-"Super-app" ??
 
 
-5. References
-
-- PhosWeb: https://github.com/udexon/PhosWeb/blob/master/README.md
-
-- Search / Post: PhosGraph https://github.com/udexon/PhosGraph/blob/master/PhosGraph_MasakNet.md
-
-- Chat: PhosChat https://github.com/udexon/PhosChat/blob/master/README.md
-
-- Pay: PhosPay https://github.com/udexon/PhosPay/blob/master/README.md
