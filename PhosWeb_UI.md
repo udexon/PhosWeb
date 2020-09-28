@@ -188,6 +188,8 @@ We may need to create a foundation like Free Software Foundation to govern HFSS,
   - House Builders, Architects, Lecturers, Mathematicians
   - Gamers, Writers, Journalists, Bloggers, YouTubers, TikTokers
   - Instagrammers, Influencers, Social Media Celebrities
+  - Housewives, Retirees, Students, Jobseekers
+  - .... _you name it_ ....
   
 Please leave your contact by creating a new Issue on our Issue page:
 - https://github.com/udexon/PhosWeb/issues
