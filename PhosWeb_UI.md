@@ -126,7 +126,7 @@ Using PhosWeb, a user may submit personal details via CSV, or a spreadsheet inte
 
 The results can be displayed in a page similar to LinkedIn profile page (figure 2) or any template that the user chooses.
 
-Here we have demonstrated that PhosWeb overcomes one of the biggest hurdles to success in free software / open source projects &mdash; 
+Here we have demonstrated how PhosWeb overcomes one of the biggest hurdles to success in free software / open source projects &mdash; visual or graphics design &mdash; which billion dollars corporations can easily afford, to the disadvantages of FOSS projects. The root cause of this problem is that technically, conventional software architecture does not allow the visual or graphics design elements and processes to be partitioned easily from non-visual coding.
 
 
 Need "free graphics", a.k.a. creative commons.
