@@ -149,9 +149,9 @@ As such, the works by Creative Commons, the Free Software Foundation equivalent 
 - (iii) Spreadsheet Interface: Spreadsheet users know basic spreadsheet functions: sum of cells, sort etc. Spreadsheet is in fact the first "no code" app. 
 
 To commemorate the legedanary classic spreadsheet application Lotus 1-2-3, we would like to introduce the slogan:
-- PhosWeb makes programming as simple as 1-2-3.
+- _PhosWeb: Web Programming as Easy as 1-2-3_.
 
-Phos RPN commands can be entered via any text box capable of inputting a string, a breakthrough from conventional programming languages, e.g. a cell in a spreadsheet, or any floating window, etc. As such, it gives rise to a new class of "super-app", which has capabilities to "modify itself" (metaprogramming), and creates new possibilities in application development. 
+Phoscript RPN commands can be entered via any text box capable of inputting a string, a breakthrough from conventional programming languages, e.g. a cell in a spreadsheet, or any floating window, etc. As such, it gives rise to a new class of "super-app", which has capabilities to "modify itself" (metaprogramming), and creates new possibilities in application development. 
 
 <!--
 UseDev 
