@@ -2,6 +2,12 @@
 
 ## From "No Code" Platforms to "Search Post Chat Pay": How Users and Developers may collaborate in Hybrid Free Software Start-up (HFSS) Ventures using PhosWeb
 
+Hybrid Free Software Start-up (HFSS) is more than just a start up project making use of free software or open source project. 
+
+We are creating the next generation free software technologies (Free Software Revolution 2.0) that are:
+- available freely to all participants, not just programmers, but non-programmer experts in ANY FIELD
+- scalable and monetizable &mdash; that is different from technologies in Free Software Revolution 1.0, where they are only available for free, exploited by giant corporations, but NEVER rewarding fairly to the free software contributors.
+
 
 1. PhosWeb differs from conventional web development in:
 
@@ -170,3 +176,17 @@ How PhosWeb merge Users and Developers. Beyond simple no-code platforms.
 
 We may need to create a foundation like Free Software Foundation to govern HFSS, whose philosophy may be summarized in one Chinese proverb 集思广益 "synergy maximises success".
 
+
+### What type of Collaborators are PhosWeb recruiting for the Hybrid Free Software Startup (HFSS)?
+
+1. Programmers
+  - Game Developers
+
+2. Non-Programmers &mdash; Experts in Any Field:
+  - Chefs, Photographers, Models, Marketing, Managers, Finance
+  - House Builders, Architects, Lecturers, Mathematicians
+  - Gamers, Writers, Journalists, Bloggers, YouTubers, TikTokers
+  - Instagrammers, Influencers, Social Media Celebrities
+  
+Please leave your contact by creating a new Issue on our Issue page:
+- https://github.com/udexon/PhosWeb/issues
