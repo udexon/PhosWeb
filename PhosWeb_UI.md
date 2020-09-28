@@ -7,7 +7,8 @@ Hybrid Free Software Start-up (HFSS) is more than just a start up project making
 We are creating the next generation free software technologies (Free Software Revolution 2.0) that are:
 - available freely to all participants, not just programmers, but non-programmer experts in ANY FIELD
 - scalable and monetizable &mdash; that is different from technologies in Free Software Revolution 1.0, where they are only available for free, exploited by giant corporations, but NEVER rewarding fairly to the free software contributors.
-
+  - Free Software Revolution 1.0: began with Linux and GNU tools, with GNU licenses by Free Software Foundation; powered the Internet and mobile revolution to date, but unable to address the income gaps between MAGA+F (Microsoft Apple Google Amazon Facebook) investors and free software programmers.
+  - Free Software Revolution 2.0: with Phosway technologies, notably Phoscript and Decentralized User Authentication, we have formulated the solutions to overcome the drawbacks of Free Software Revolution 1.0.
 
 1. PhosWeb differs from conventional web development in:
 
