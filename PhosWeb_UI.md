@@ -1,8 +1,8 @@
 <!-- # Search Post Chat Pay (SPCP) &mdash; 4 Essential Functions of PhosWeb -->
 
-## From "No Code" Platforms to "_DECENTRALIZED_ Search Post Chat Pay": How Users and Developers may collaborate in Hybrid Free Software Start-up (HFSS) Ventures using PhosWeb
+## From "No Code" Platforms to "_DECENTRALIZED_ Search Post Chat Pay": How Users and Developers may collaborate in Hybrid Free Software Start-Up (HFSS) Ventures using PhosWeb
 
-Hybrid Free Software Start-up (HFSS) is more than just a start up project making use of free software or open source project. 
+Hybrid Free Software Start-Up (HFSS) is more than just a start up project making use of free software or open source project. 
 
 We are creating the next generation free software technologies (Free Software Revolution 2.0) that are:
 - available freely to all participants, not just programmers, but non-programmer experts in ANY FIELD
@@ -64,7 +64,7 @@ In PhosWeb ecosystems, it is not just the barriers between Users and Developers 
 
 
 
-4. We shall describe MasakNet, to illustrate the organizational to technical issues in a "hybrid Free Software Start-up" (HFSS), beyond the conventional "start-ups using FOSS" modus operandi.
+4. We shall describe MasakNet, to illustrate the organizational to technical issues in a "hybrid Free Software Start-Up" (HFSS), beyond the conventional "start-ups using FOSS" modus operandi.
 
 MasakNet's aims are as follow:
 - to help the people who are cooking at home (due to the current COVID19 pandemic lockdown), to sell and deliver the food to nearby customers.
@@ -76,7 +76,7 @@ MasakNet's aims are as follow:
 
 ### Legal Responsibilities in HFSS
 
-1. One of the most fundamental questions concerning Hybrid Free Software Start-ups (HFSS) will be legal responsibilities &mdash; who will be legally responsible for the information and the operations of the projects and how will this affect users.
+1. One of the most fundamental questions concerning Hybrid Free Software Start-Ups (HFSS) will be legal responsibilities &mdash; who will be legally responsible for the information and the operations of the projects and how will this affect users.
 
 We may draw precedents from existing FOSS projects as well as non-profit charities and Non-Governmental Organizations.
 
