@@ -23,9 +23,12 @@ Phoscript is perhaps one of the very few programming languages that exhibit the 
 - https://github.com/udexon/Multiweb/blob/master/Phoscript_Tutorials.md
 
 
+PhosWeb Convergent Hybrid API (CHAPI) allows better task delegation between teams responsible for specific modules in a complex project, from low level coding to project monitoring at management level, traditionally considered a non-programming task.
+
+
 Improve User / Developer collaboration? PhosWeb have smaller barriers between Users and Developers compared to conventional software projects. 
 
-In PhosWeb ecosystems, it is not just the barriers between Users and Developers are smaller, but PhosWeb Hybrid API allows better task delegation between teams responsible for specific modules in a complex project, from low level coding to project monitoring at management level, traditionally considered a non-programming task.
+In PhosWeb ecosystems, it is not just the barriers between Users and Developers are smaller, but 
 
 Just like spreadsheet users know basic spreadsheet functions: sum of cells, sort etc. Spreadsheet is the first no code app. 
 
