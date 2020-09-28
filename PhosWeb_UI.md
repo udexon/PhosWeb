@@ -1,6 +1,6 @@
 <!-- # Search Post Chat Pay (SPCP) &mdash; 4 Essential Functions of PhosWeb -->
 
-## From "No Code" Platforms to "Search Post Chat Pay": How Users and Developers may collaborate in Hybrid Free Software Start-up (HFSS) Ventures
+## From "No Code" Platforms to "Search Post Chat Pay": How Users and Developers may collaborate in Hybrid Free Software Start-up (HFSS) Ventures using PhosWeb
 
 
 1. PhosWeb differs from conventional web development in:
