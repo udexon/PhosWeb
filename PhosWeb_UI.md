@@ -156,7 +156,13 @@ As such, the works by Creative Commons, the Free Software Foundation equivalent 
 
 4. "Usedev": User + Developer
 
-Introduce "Usedev" here. How PhosWeb merge Users and Developers. Beyond simple no-code platforms.
+As highlighted above and elsewhere, Phoscript can as simple as the LOGO programming language, yet complex and flexible enough to interface to very advanced programming languages from Python to C++.
+
+As such, we would like to introduce the term "Usedev" which represents "User + Developer" to signfify the expanded roles of Phoscript users. 
+
+<!--
+How PhosWeb merge Users and Developers. Beyond simple no-code platforms.
+-->
 
 Phos / RPN commands can be entered via any text box capable of inputting a string, a breakthrough from conventional programming languages, e.g. a cell in a spreadsheet, or any floating window, etc.
 
