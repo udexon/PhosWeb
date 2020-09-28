@@ -3,6 +3,15 @@
 ## From "No Code" Platforms to "Search Post Chat Pay": How Users and Developers may collaborate in Hybrid FOSS Start-up Ventures
 
 
+UseDev Phos makes programming as simple as 123, spreadsheet. 
+
+Merge with other no code platforms?
+
+Why do users need to know programming? Just like spreadsheet users know basic spreadsheet functions: sum of cells, sort etc. Spreadsheet is the first no code app. 
+
+- Figure 1
+<img src="https://github.com/udexon/Hydergraph/blob/master/Hydergraph/Google-Search-Spreadsheet.png" width=600>
+
 
 1. While there have been various "no code" frameworks targeted at non-programmers to help them develop apps, they fail to address several crucial factors in making or breaking new start-up ventures:
 
@@ -70,9 +79,6 @@ By "total transpaency", it means that since each public key is (theoretically) u
 Having highlighted some background legal, technical and organizational issues, let us examine in details the essential functions of PhosWeb, and compare how they differ from conventional web services.
 
 1. Figure 1, 2 and 3 show Google search engine, LinkedIn profile page and Facebook that everyone is familiar with.
-
-- Figure 1
-<img src="https://github.com/udexon/Hydergraph/blob/master/Hydergraph/Google-Search-Spreadsheet.png" width=600>
 
 - Figure 2
 <img src="https://github.com/udexon/PhosWeb/blob/master/img/LinkedIn_CEO_profile.png" width=600>
