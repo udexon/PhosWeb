@@ -2,9 +2,21 @@
 
 ## From "No Code" Platforms to "Search Post Chat Pay": How Users and Developers may collaborate in Hybrid FOSS Start-up Ventures
 
-1. Do users need to know programming? 
 
-Improve User / Developer collaboration? PhosWeb have smaller barriers between Users and Developers compared to conventional software projects. In PhosWeb ecosystems, it is not just the barriers between Users and Developers are smaller, but PhosWeb Hybrid API allows better task delegation between teams responsible for specific modules in a complex project, from low level coding to project monitoring at management level, traditionally considered a non-programming task.
+1. PhosWeb differs from conventional web development in:
+
+- Hybrid API
+- DxBC Non-Blockchain Decentralization
+  - Decentralized User Authentication
+  - Decentralized Owndership of Data
+  - Collaborative Development (Code as Data in [PhosGraph](https://github.com/udexon/PhosGraph/blob/master/PhosGraph_MasakNet.md))
+
+
+2. Do users need to know programming? 
+
+Improve User / Developer collaboration? PhosWeb have smaller barriers between Users and Developers compared to conventional software projects. 
+
+In PhosWeb ecosystems, it is not just the barriers between Users and Developers are smaller, but PhosWeb Hybrid API allows better task delegation between teams responsible for specific modules in a complex project, from low level coding to project monitoring at management level, traditionally considered a non-programming task.
 
 Just like spreadsheet users know basic spreadsheet functions: sum of cells, sort etc. Spreadsheet is the first no code app. 
 
@@ -17,7 +29,7 @@ Merge with other no code platforms?
 <img src="https://github.com/udexon/Hydergraph/blob/master/Hydergraph/Google-Search-Spreadsheet.png" width=600>
 
 
-1. While there have been various "no code" frameworks targeted at non-programmers to help them develop apps, they fail to address several crucial factors in making or breaking new start-up ventures:
+3. While there have been various "no code" frameworks targeted at non-programmers to help them develop apps, they fail to address several crucial factors in making or breaking new start-up ventures:
 
 - Most start-up ventures are not organized like a free software or open source (FOSS) project. Although FOSS sounds counter intuitive as its primary aim is not profit oriented, it is exactly because of this that we believe FOSS has some crucial elements to help reduce the failure rate of start-up ventures.
 
@@ -29,7 +41,8 @@ Centralized user authentication will continue to be one of the most critical bot
 
 - PhosWeb can use ___BOTH___ traditional centralized user authentication (CUA) or decentralized user authentication (DUA).
 
-2. We shall describe MasakNet, to illustrate the organizational to technical issues in a "hybrid Free Software Start-up" (HFSS), beyond the conventional "start-ups using FOSS" modus operandi.
+
+4. We shall describe MasakNet, to illustrate the organizational to technical issues in a "hybrid Free Software Start-up" (HFSS), beyond the conventional "start-ups using FOSS" modus operandi.
 
 MasakNet's aims are as follow:
 - to help the people who are cooking at home (due to the current COVID19 pandemic lockdown), to sell and deliver the food to nearby customers.
