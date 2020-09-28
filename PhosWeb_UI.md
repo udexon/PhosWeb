@@ -64,8 +64,6 @@ MasakNet's aims are as follow:
 - to arrange expert chefs to conduct cooking classes, online or off line, to train the people who are cooking at home.
 - to work with accomodation booking services like AirBnB to provide an "all-in-one" experience &mdash; from holiday to cooking class and partying.
 - to provide training for everyone involved &mdash; from apprentice chef, marketing, finance, management, deliveries, investors etc.
-- .... 
-
 - https://github.com/udexon/LesNomadesMobile
 
 
@@ -127,6 +125,9 @@ Having highlighted some background legal, technical and organizational issues, l
 Using PhosWeb, a user may submit personal details via CSV, or a spreadsheet interface (figure 1 right) &mdash; format that users are familiar with.
 
 The results can be displayed in a page similar to LinkedIn profile page (figure 2) or any template that the user chooses.
+
+Here we have demonstrated that PhosWeb overcomes one of the biggest hurdles to success in free software / open source projects &mdash; 
+
 
 Need "free graphics", a.k.a. creative commons.
 
