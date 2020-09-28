@@ -25,6 +25,12 @@ Phoscript is perhaps one of the very few programming languages that exhibit the 
 
 PhosWeb Convergent Hybrid API (CHAPI) allows better task delegation between teams responsible for specific modules in a complex project, from low level coding to project monitoring at management level, traditionally considered a non-programming task.
 
+- Do users need to know programming? 
+
+Phoscript blurs the boundaries of the term "know programming", as it provides _a systematic interface for non-programmers to verify tasks performed by programmers_. By this we mean that, Phoscript provides a high level script language for managers (who may not know programming languages in the conventional sense) to systematically monitor tasks (tests or executions of programs) performed by programmers, where such tests may be further analyzed using Phoscript.
+
+This is a property not available in other programming languages as they are not capable of _homoiconic metaprogramming_.
+
 
 Improve User / Developer collaboration? PhosWeb have smaller barriers between Users and Developers compared to conventional software projects. 
 
