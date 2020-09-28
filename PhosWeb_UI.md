@@ -2,12 +2,14 @@
 
 ## From "No Code" Platforms to "Search Post Chat Pay": How Users and Developers may collaborate in Hybrid FOSS Start-up Ventures
 
+- Why do users need to know programming? 
+
+Just like spreadsheet users know basic spreadsheet functions: sum of cells, sort etc. Spreadsheet is the first no code app. 
 
 UseDev Phos makes programming as simple as 123, spreadsheet. 
 
 Merge with other no code platforms?
 
-Why do users need to know programming? Just like spreadsheet users know basic spreadsheet functions: sum of cells, sort etc. Spreadsheet is the first no code app. 
 
 - Figure 1
 <img src="https://github.com/udexon/Hydergraph/blob/master/Hydergraph/Google-Search-Spreadsheet.png" width=600>
