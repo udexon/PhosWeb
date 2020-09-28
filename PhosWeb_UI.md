@@ -32,15 +32,6 @@ Phoscript blurs the boundaries of the term "know programming", as it provides _a
 This is a property not available in other programming languages as they are not capable of _homoiconic metaprogramming_.
 
 
-Improve User / Developer collaboration? PhosWeb have smaller barriers between Users and Developers compared to conventional software projects. 
-
-In PhosWeb ecosystems, it is not just the barriers between Users and Developers are smaller, but 
-
-Just like spreadsheet users know basic spreadsheet functions: sum of cells, sort etc. Spreadsheet is the first no code app. 
-
-UseDev Phos makes programming as simple as 123, spreadsheet. 
-
-Merge with other no code platforms?
 
 
 - Figure 1
@@ -58,6 +49,17 @@ Merge with other no code platforms?
 Centralized user authentication will continue to be one of the most critical bottlenecks of growth for new start-ups, as acquiring users or customers to register is time consuming and costly.
 
 - PhosWeb can use ___BOTH___ traditional centralized user authentication (CUA) or decentralized user authentication (DUA).
+
+
+3. (A) Improve User / Developer collaboration? PhosWeb have smaller barriers between Users and Developers compared to conventional software projects. 
+
+In PhosWeb ecosystems, it is not just the barriers between Users and Developers are smaller, but 
+
+Just like spreadsheet users know basic spreadsheet functions: sum of cells, sort etc. Spreadsheet is the first no code app. 
+
+UseDev Phos makes programming as simple as 123, spreadsheet. 
+
+Merge with other no code platforms?
 
 
 4. We shall describe MasakNet, to illustrate the organizational to technical issues in a "hybrid Free Software Start-up" (HFSS), beyond the conventional "start-ups using FOSS" modus operandi.
