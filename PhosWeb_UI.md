@@ -1,6 +1,6 @@
 <!-- # Search Post Chat Pay (SPCP) &mdash; 4 Essential Functions of PhosWeb -->
 
-## From "No Code" Platforms to "Search Post Chat Pay": How Users and Developers may collaborate in Hybrid Free Software Start-up (HFSS) Ventures using PhosWeb
+## From "No Code" Platforms to "_DECENTRALIZED_ Search Post Chat Pay": How Users and Developers may collaborate in Hybrid Free Software Start-up (HFSS) Ventures using PhosWeb
 
 Hybrid Free Software Start-up (HFSS) is more than just a start up project making use of free software or open source project. 
 
