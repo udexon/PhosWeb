@@ -32,15 +32,13 @@ Phoscript blurs the boundaries of the term "know programming", as it provides _a
 This is a property not available in other programming languages as they are not capable of _homoiconic metaprogramming_.
 
 
-
-
 - Figure 1
 <img src="https://github.com/udexon/Hydergraph/blob/master/Hydergraph/Google-Search-Spreadsheet.png" width=600>
 
 
 3. While there have been various "no code" frameworks targeted at non-programmers to help them develop apps, they fail to address several crucial factors in making or breaking new start-up ventures:
 
-- Most start-up ventures are not organized like a free software or open source (FOSS) project. Although FOSS sounds counter intuitive as its primary aim is not profit oriented, it is exactly because of this that we believe FOSS has some crucial elements to help reduce the failure rate of start-up ventures.
+- Most start-up ventures are not organized like a free software or open source (FOSS) project. Although FOSS sounds counter intuitive as its primary aim is not profit oriented, it is exactly because of this that we believe FOSS has some crucial elements to help reduce the failure rate of start-up ventures. This is overcome by PhosWeb Convergent Hybrid API (CHAPI).
 
 - The so called "no code" frameworks still rely on conventional database systems, where user authentication is centralized. 
 
@@ -50,10 +48,13 @@ Centralized user authentication will continue to be one of the most critical bot
 
 - PhosWeb can use ___BOTH___ traditional centralized user authentication (CUA) or decentralized user authentication (DUA).
 
+<!--
+3. (Notes) CHAPI and DxCB arguments must be isolated. How?
 
 3. (A) Improve User / Developer collaboration? PhosWeb have smaller barriers between Users and Developers compared to conventional software projects. 
 
 In PhosWeb ecosystems, it is not just the barriers between Users and Developers are smaller, but 
+-->
 
 Just like spreadsheet users know basic spreadsheet functions: sum of cells, sort etc. Spreadsheet is the first no code app. 
 
