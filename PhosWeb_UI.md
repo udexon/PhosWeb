@@ -147,7 +147,14 @@ As such, the works by Creative Commons, the Free Software Foundation equivalent 
 <img src="https://github.com/udexon/PhosWeb/blob/master/img/terminal.png" width=600>
 
 
-3. "Usedev": User + Developer
+3. PhosWeb Development Schedule
+
+- (i) Upload data to PhosGraph via CSV file. 
+- (ii) Let user choose web page templates: store URL of web page templates in PhosGraph.
+- (iii) Spreadsheet Interface.
+
+
+4. "Usedev": User + Developer
 
 Introduce "Usedev" here. How PhosWeb merge Users and Developers. Beyond simple no-code platforms.
 
@@ -156,7 +163,7 @@ Phos / RPN commands can be entered via any text box capable of inputting a strin
 "Super-app" ??
 
 
-4.
+5. References
 
 - PhosWeb: https://github.com/udexon/PhosWeb/blob/master/README.md
 
