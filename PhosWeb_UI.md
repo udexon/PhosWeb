@@ -1,4 +1,4 @@
-# Search Post Chat Pay (SPCP) &mdash; 4 Essential Functions of PhosWeb
+<!-- # Search Post Chat Pay (SPCP) &mdash; 4 Essential Functions of PhosWeb -->
 
 ## From "No Code" Platforms to "Search Post Chat Pay": How Users and Developers may collaborate in Hybrid FOSS Start-up Ventures
 
@@ -41,8 +41,7 @@ This is a property not available in other programming languages as they are not 
 - Most start-up ventures are not organized like a free software or open source (FOSS) project. Although FOSS sounds counter intuitive as its primary aim is not profit oriented, it is exactly because of this that we believe FOSS has some crucial elements to help reduce the failure rate of start-up ventures. This is overcome by PhosWeb Convergent Hybrid API (CHAPI).
 
 - The so called "no code" frameworks still rely on conventional database systems, where user authentication is centralized. 
-
-- https://webflow.com/blog/no-code-apps
+  - https://webflow.com/blog/no-code-apps
 
 Centralized user authentication will continue to be one of the most critical bottlenecks of growth for new start-ups, as acquiring users or customers to register is time consuming and costly.
 
@@ -56,11 +55,6 @@ Centralized user authentication will continue to be one of the most critical bot
 In PhosWeb ecosystems, it is not just the barriers between Users and Developers are smaller, but 
 -->
 
-Just like spreadsheet users know basic spreadsheet functions: sum of cells, sort etc. Spreadsheet is the first no code app. 
-
-UseDev Phos makes programming as simple as 123, spreadsheet. 
-
-Merge with other no code platforms?
 
 
 4. We shall describe MasakNet, to illustrate the organizational to technical issues in a "hybrid Free Software Start-up" (HFSS), beyond the conventional "start-ups using FOSS" modus operandi.
@@ -82,8 +76,6 @@ MasakNet's aims are as follow:
 We may draw precedents from existing FOSS projects as well as non-profit charities and Non-Governmental Organizations.
 
 A lack of awareness on legal responsibilities may prevent many programmers or non-programmers alike to partificipating in HFSS. As such, we feel that we should be taking more efforts in educating everyone on this issue.
-
-集思广益 synergy maximises success
 
 The first issue that we may explore is:
 
@@ -111,6 +103,14 @@ By "total transpaency", it means that since each public key is (theoretically) u
 
 4. "Usedev": User + Developer
 
+集思广益 synergy maximises success
+
+Just like spreadsheet users know basic spreadsheet functions: sum of cells, sort etc. Spreadsheet is the first no code app. 
+
+UseDev Phos makes programming as simple as 123, spreadsheet. 
+
+Merge with other no code platforms?
+
 
 ## Search Post Chat Pay (SPCP) &mdash; 4 Essential Functions of PhosWeb
 
@@ -130,7 +130,7 @@ The results can be displayed in a page similar to LinkedIn profile page (figure 
 
 Need "free graphics", a.k.a. creative commons.
 
-https://creativecommons.org/
+- https://creativecommons.org/
 
 
 2. Figure 4 shows a typical browser console and figure 5 shows a Unix (Linux) terminal that most developers are familiar with.
